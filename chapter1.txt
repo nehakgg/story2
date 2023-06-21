@@ -1,2 +1,3 @@
 # story2
 thisis a story, its about branching
+this is a great story
